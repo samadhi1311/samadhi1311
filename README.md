@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musicbysamadhi
 - 👀 I’m software develpment related to digital audio processing
-- 🌱 I’m ICT
-- 📫 reach me onmusicbysamadhi@gmail.com
+- 🌱 I’m learning ICT
+- 📫 reach me on musicbysamadhi@gmail.com
 
 <!---
 musicbysamadhi/musicbysamadhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
