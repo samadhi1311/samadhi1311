@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @neurotic_souls
+- 👋 Hi, I’m Samadhi
 - 👀 I do software develpment related to digital audio processing
-- 🌱 I’m learning ICT
+- 🌱 Currently I’m learning ICT
