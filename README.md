@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Samadhi
-- 👀 I do software develpment related to digital audio processing
-- 🌱 Currently I’m learning ICT
+- 🌱 Currently learning ICT
