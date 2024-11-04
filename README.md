@@ -1,6 +1,11 @@
-<div align='center'>
+<div>
+<h3 align='left'>Hi there 🫡</h3>
+  <p>I'm <b><a href="https://github.com/samadhi1311">samadhi1311</a></b>. Currently "edging" (the runtime…) with serverless computing, exploring the possibilities with Next.js, Docker, Cloudflare, Hono, Firebase, Cloud Run, and whatever else the web throws my way. Man, I love web development—it's so frustrating.</p>
+</div>
 
-<img src='https://my-github-stats-omega.vercel.app/api?username=samadhi1311&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' alt='stats' height='150px' />
-<img src='https://my-github-stats-omega.vercel.app/api/top-langs/?username=samadhi1311&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5' alt='top languages' height='150px' />
+<div align='center' width='100'>
+
+<img src='https://my-github-stats-omega.vercel.app/api?username=samadhi1311&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' alt='stats' align='left' height='160px' />
+<img src='https://my-github-stats-omega.vercel.app/api/top-langs/?username=samadhi1311&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5' alt='top languages' align='left' height='160px' />
   
 </div>
