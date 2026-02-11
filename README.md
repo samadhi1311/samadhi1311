@@ -1,6 +1,6 @@
 <div>
 <h3 align='left'>Hi there 🫡</h3>
-  <p>I'm <b><a href="https://samadhi-gunasinghe.com">Samadhi Gunasinghe</a></b>. Currently studying serverless computing, exploring the possibilities with Next.js, Docker, Cloudflare, Hono, Firebase, Cloud Run, and whatever else the web throws my way.</p>
+  <p>I'm <b><a href="https://samadhi.is-a.dev">Samadhi Gunasinghe</a></b>. Currently studying serverless computing, exploring the possibilities with Next.js, Docker, Cloudflare, Hono, Firebase, Cloud Run, and whatever else the web throws my way.</p>
 </div>
 
 <div align='center' width='100'>
